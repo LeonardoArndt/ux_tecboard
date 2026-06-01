@@ -1,2 +1,2 @@
 # Access Link:
-[Web-Link](https://leonardoarndt.github.io/tecboard/)
+[Web-Link](https://leonardoarndt.github.io/ux-tecboard/)
